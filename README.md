@@ -3,7 +3,7 @@ AutoStream — Social-to-Lead AI Agent
 
 
 ## Project Overview
-
+It is an ai agent
 A LangGraph-powered conversational AI agent that turns social media conversations into qualified business leads for **AutoStream** — a fictional SaaS platform offering automated video editing tools for content creators.
 
 ### 1. Clone & enter the project
